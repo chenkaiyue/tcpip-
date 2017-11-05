@@ -67,10 +67,3 @@ void read_childproc(int sig)
 
 
 
-
-
-int main(int argc ,char *argv[])
-{
-	
-}
-
