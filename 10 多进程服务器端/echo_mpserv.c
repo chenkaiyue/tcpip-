@@ -63,7 +63,3 @@ void read_childproc(int sig)
 	pid=waitpid(-1,&status,WNOHANG);
 	printf("remove proc:%d",pid);
 }
-
-
-
-
